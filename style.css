@@ -5,21 +5,27 @@ h1{
 	font-size: 50px;
 }
 input{
-	margin-bottom: 30px;
 	border-radius: 20px;
 	border-color: black;
 	padding: 15px;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	margin-right: 28px;
+}
+.name:hover{
+	background-color: grey;
+	color: black;
+	cursor: pointer;
 }
 body{
-	background: url(bg2.jpg)no-repeat 0 0 fixed;
-	height:100%;
+	background: url(mcgarage.jpg)no-repeat 0 0 fixed;
 	background-size: cover;
-	background-position: fixed 
 }
 .container1{
-	margin-top: 60px;
+	margin-top: 350px;
 	margin-left: 400px;
-	height:500px;
+	height:180px;
 	width:500px;
 }
 .last:hover{
