@@ -1,21 +1,21 @@
 h1{
 	color: white;
 	text-align: center;
-	font-family: Baskerville Old Face;
+	font-family: Times New Roman;
 	font-size: 50px;
 }
 input{
 	border-radius: 20px;
 	border-color: black;
 	padding: 15px;
-	font-size: 30px;
+	font-size: 25px;
 	background-color: black;
 	color: white;
 	margin-right: 28px;
 }
 .name:hover{
-	background-color: grey;
-	color: black;
+	background-color: #210101;
+	color: white;
 	cursor: pointer;
 }
 body{
@@ -23,13 +23,9 @@ body{
 	background-size: cover;
 }
 .container1{
-	margin-top: 350px;
+	padding-top: 100px;
+	margin-top: 50px;
 	margin-left: 400px;
 	height:180px;
 	width:500px;
-}
-.last:hover{
-	background-color: grey;
-	color: black;
-	cursor: pointer;
 }
