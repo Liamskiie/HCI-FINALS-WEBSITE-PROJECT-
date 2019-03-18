@@ -1,0 +1,31 @@
+h1{
+	color: white;
+	text-align: center;
+	font-family: Baskerville Old Face;
+	font-size: 50px;
+}
+input{
+	margin-bottom: 30px;
+	border-radius: 20px;
+	border-color: black;
+	padding: 15px;
+}
+body{
+	background: url(bg2.jpg)no-repeat 0 0 fixed;
+	background-position: center;
+	height:50%;
+	background-size: 800px;
+	background-position: fixed
+
+}
+.container1{
+	margin-top: 60px;
+	margin-left: 400px;
+	height:500px;
+	width:500px;
+}
+.last:hover{
+	background-color: grey;
+	color: black;
+	cursor: pointer;
+}

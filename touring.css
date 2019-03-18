@@ -1,27 +1,18 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel ="stylesheet" href="style.css">
+		<link rel ="stylesheet" href="touring.css">
 
-		<title> PAGE 3 </title>
-		
+		<title> TOURING </title>
 			<h1>TOURING BIKES</h1>
-
 	</head>
 		<body>
 			<div class="row" align ="center"> 
 		  		<div class="column">
-		   			<a href="page5.html">
+		   		
 						<img src="tb1.png">
-					</a>
-	
-		   			<a href="page5.html">
 						<img src="tb2.png">
-					</a>
-
-		   			<a href="page5.html">
 						<img src="tb3.png">
-					</a>
-			  </div>
-	</body>
+			  	</div>
+		</body>
 </html>
