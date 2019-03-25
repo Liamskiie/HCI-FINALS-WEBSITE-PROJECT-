@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+h1{
+  text-align: center;
+}
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
@@ -10,6 +13,7 @@
 /* Hide the images by default */
 .mySlides {
   display: none;
+   margin-left: 450px;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -51,8 +55,8 @@
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
-  position: absolute;
   top: 0;
+  margin-left:250px;
 }
 
 /* Container for image text */
