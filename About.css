@@ -1,0 +1,131 @@
+	html.body{
+		margin: 0px;
+		font-family: "Moon Flower";
+	}
+	img{
+		width: auto;
+		position: relative;
+	}
+	p{
+		font-size: 20px;
+		font:family: "Moon Flower";
+		line-height: 1.5cm;
+	}
+	.header{
+		/*header 1px solid black;*/
+		height: auto;
+		width: 100%;
+		position: relative;
+		z-index: 900;
+	}
+	.header-container{
+		padding: 20px 30px;
+		position: center;
+		overflow: hidden;
+		float: left;
+
+	}
+	.title{
+		font-family: "Moon Flower";
+		font-size: 24;
+		margin: 0px;
+		float: auto;
+		color: white; 	
+	}
+	.nav{
+		list-style: none;
+		padding: 10px;
+		margin: 10px;
+		float: right;
+		width: auto;
+	}
+	.nav li{
+		float: left;
+	}
+	.nav li a{
+		float: top right;
+		padding: 15px;
+		position: relative;
+		font-weight:800;
+		display: inline-block;
+		text-decoration: none;
+		width: auto;
+		color: black;
+		font-size: 18px;
+	}
+	.nav li a:hover{
+		color: black;
+		border-bottom: 2px solid blue;
+	}
+	.content{
+		border: 0px solid black;
+		margin: 0px;
+		background-size: 100%;
+		min-height: 300px;
+		height: auto;
+		background-color: white;
+		padding: 50px;
+	}
+	.landing-section{
+		position: relative;
+		background-size: 100%;
+		height: 300px;
+		margin-top: 0px;
+	}
+	.log{
+		padding: 30px 50px;
+		font-family: "Calibri";
+		font-size: 28px;
+		width: auto;
+		color: black;
+		position: absolute;
+		font-size: 40px;
+		top: 150;
+		left: 400;
+		background-color: white;
+		padding: 30px;
+		text-align: center;
+	}
+	.caption{
+		padding: 30px 50px;
+		font-family: "Calibri";
+		font-size: 28px;
+		width: auto;
+		color: black;
+		position: absolute;
+		font-size: 40px;
+		top: 150;
+		left: 400;
+		background-color: white;
+		padding: 30px;
+		text-align: center;
+	}
+	.caption li{
+		list-style: none;
+		cursor: pointer;
+	}
+	.main-body{
+		padding: 30px;
+		text-align:center;
+		color: black;
+	}	
+	.subtitle{
+		font-size: 30px;
+		background-color: grey;
+		padding: 20px;
+		width: auto;
+		margin-top: -223px;
+		box-sizing: border-box;
+		border-radius: 20px;
+	}
+	.footer{
+		padding: 100px 30px;
+		background-color: grey;
+		color: black;
+		border: 1px grey;
+		text-align: center;
+		min-height: 50px;
+		padding: 10px;
+		margin-top: 200px;
+	}
+s
